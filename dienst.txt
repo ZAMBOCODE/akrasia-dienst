@@ -1,0 +1,7 @@
+akrasia-dienst=1
+kanal=main
+fassung=129
+commit=9820b5f
+datum=2026-10-13
+datei=akrasia-win-agent-9820b5f.exe
+sha256=91bacccefa837fb7cf141089b90f67fcd8dec7cddd12706e02a516f419ff5664
