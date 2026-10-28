@@ -1,0 +1,7 @@
+akrasia-dienst=1
+kanal=probe
+fassung=141
+commit=7bd7aac
+datum=2026-10-28
+datei=akrasia-win-agent-7bd7aac.exe
+sha256=a05835128830ab1ef1675e19f845bc90523a8b72940e76a369d78c4c240185da
