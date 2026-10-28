@@ -1,0 +1,7 @@
+akrasia-dienst=1
+kanal=main
+fassung=137
+commit=e782e0b
+datum=2026-10-28
+datei=akrasia-win-agent-e782e0b.exe
+sha256=f3ef4a4aa7482df919ffcf1f1f246f2b18da5c9f2193b01088b3c9dda022ccfa
